@@ -1,0 +1,71 @@
+/* HEADER */
+.nav-brand{
+    font-family: 'Port Lligat Slab';
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 39px;
+}
+
+.nav-item{
+    font-family: 'Port Lligat Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+}
+
+
+
+
+.header-img{
+    width: 600px;
+    height: 100px;
+    
+}
+
+.hero-section{
+    width: 200px;
+    height: 200px;
+   
+
+}
+/* TUTUP HEADER */
+
+/* OPENING */
+.opening{
+    width: 1202.81px;
+    height: 400px;
+    
+
+}
+
+
+.kategori{
+    width: 1500px;
+    height: 300px;
+    left: 100px;
+    top: 1206px;
+    padding-top: 150px;
+    position: absolute;
+}
+
+.story{
+    width: 1202.81px;
+    height: 238.41px;
+   
+   
+}
+ .story-bg{
+    position: absolute;
+ }
+
+
+.footer {
+    margin-top: 300px;
+}
+
+.story-img{
+    margin-top: 70px;
+    
+}
+/* TUTUP OPENING */
+
